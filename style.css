@@ -877,11 +877,11 @@ select{
 }
 /* nav-footer */
 .nav-footer{
-    width:1579px;
+    width:100%;
     height:984.41px;
 }
 .navFooterBackToTopText{
-    width:1579px;
+    width:100%;
     height:49px;
     background-color: #2c3b4e;
     color:#FFF;
@@ -892,7 +892,7 @@ select{
 }
 .nav-guide-information{
     height:370px;
-    width:1579px;
+    width:100%;
     background-color: #232F3E;
     color :#FFF;
     display: flex;
@@ -926,7 +926,7 @@ select{
     flex-direction: column;
 }
 .navFooterLinkLine{
-    width:1579px;
+    width:100%;
     height:100px;
     display: flex;
     background-color: #232F3E;
@@ -964,7 +964,7 @@ select{
 }
 .nav-footer-desc-line{
     height:357.84px;
-    width:1579px;
+    width:100%;
     background-color: #131A22;
     display: flex;
     justify-content: center;
@@ -1002,7 +1002,7 @@ table{
     align-items: center;
 }
 .nav-footer-copyright{
-    width:1579px;
+    width:100%;
     height:110px;
     background-color: #131A22;
     display: flex;
